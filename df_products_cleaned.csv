@@ -1,4 +1,4 @@
-product_id,product_category,product_name,product_price,scrapy_datetime,additional material information,art. no.,care instructions,collection,composition,concept,description,fit,imported,material,style_id,color_id,size_number,size_model
+product_id,product_category,product_name,product_price,scrapy_datetime,additional_material_information,art_no,care_instructions,collection,composition,concept,description,fit,imported,material,style_id,color_id,size_number,size_model
 1024256001,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256001,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,black,slim_fit,Yes,denim,1024256,1,,
 1024256001,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256001,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,slim_fit,Yes,denim,1024256,1,,
 985159001,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,985159001,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,black,skinny_fit,Yes,denim,985159,1,,
