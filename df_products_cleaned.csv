@@ -1,69 +1,180 @@
-product_id,product_category,product_name,product_price,scrapy_datetime,additional_material_information,art_no,care_instructions,collection,composition,concept,description,fit,imported,material,style_id,color_id,size_number,size_model
-1024256001,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256001,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,black,slim_fit,Yes,denim,1024256,1,,
-1024256001,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256001,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,slim_fit,Yes,denim,1024256,1,,
-985159001,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,985159001,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,black,skinny_fit,Yes,denim,985159,1,,
-985159001,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,985159001,Medium iron,,pocket lining: cotton 100%,DENIM,solid-color,skinny_fit,Yes,denim,985159,1,,
-1008549001,men_jeans_regular,regular_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,1008549001,Only non-chlorine bleach when needed,,"shell: cotton 98%, spandex 2%",DENIM,light_denim_blue,regular_fit,Yes,keyfibretype,1008549,1,,
-1008549001,men_jeans_regular,regular_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,1008549001,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,regular_fit,Yes,denim,1008549,1,,
-1024256003,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256003,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,light_denim_blue,slim_fit,Yes,denim,1024256,3,,
-1024256003,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256003,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,slim_fit,Yes,denim,1024256,3,,
-690449022,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449022,Only non-chlorine bleach when needed,,"cotton 98%, spandex 2%",DENIM,black,skinny_fit,Yes,keyfibretype,690449,22,,
-690449022,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449022,Medium iron,,lining: polyester 100%,DENIM,solid-color,skinny_fit,Yes,denim,690449,22,,
-690449067,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449067,Only non-chlorine bleach when needed,,"shell: cotton 98%, spandex 2%",DENIM,denim_blue,skinny_fit,Yes,keyfibretype,690449,67,,
-690449067,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449067,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,skinny_fit,Yes,denim,690449,67,,
-979945001,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,Recycled cotton 20%,979945001,Tumble dry medium,,shell: cotton 100%,DENIM,light_denim_blue,loose_fit,Yes,keyfibretype,979945,1,,
-979945001,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,Recycled cotton 20%,979945001,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,loose_fit,Yes,denim,979945,1,,
-1008549006,men_jeans_regular,regular_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,1008549006,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,black,regular_fit,Yes,keyfibretype,1008549,6,,
-1008549006,men_jeans_regular,regular_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,1008549006,Medium iron,,pocket: cotton 100%,DENIM,solid-color,regular_fit,Yes,denim,1008549,6,,
-1024256006,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256006,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,dark_denim_blue,slim_fit,Yes,denim,1024256,6,,
-1024256006,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256006,Medium iron,,pocket lining: cotton 100%,DENIM,solid-color,slim_fit,Yes,denim,1024256,6,,
-1024256004,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256004,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,denim_blue,slim_fit,Yes,denim,1024256,4,,
-1024256004,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256004,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,slim_fit,Yes,denim,1024256,4,,
-690449043,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449043,Only non-chlorine bleach when needed,,"cotton 98%, spandex 2%",DENIM,light_denim_blue,skinny_fit,Yes,keyfibretype,690449,43,,
-690449043,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449043,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,light_denim_blue,skinny_fit,Yes,denim,690449,43,,
-690449051,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,Recycled cotton 20%,690449051,Only non-chlorine bleach when needed,,"cotton 98%, spandex 2%",DENIM,gray,skinny_fit,Yes,keyfibretype,690449,51,,
-690449036,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449036,Only non-chlorine bleach when needed,,"cotton 98%, spandex 2%",DENIM,black,skinny_fit,Yes,keyfibretype,690449,36,,
-1024256005,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256005,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,dark_blue,slim_fit,Yes,denim,1024256,5,,
-1024256005,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256005,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,slim_fit,Yes,denim,1024256,5,,
-985159007,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,,985159007,Tumble dry medium,,"shell: cotton 99%, spandex 1%",DENIM,denim_blue,skinny_fit,Yes,denim,985159,7,,
-985159007,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,,985159007,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,skinny_fit,Yes,denim,985159,7,,
-1024711006,men_jeans_slim,slim_jeans,29.99,2022-11-30 05:56:05,,1024711006,Tumble dry medium,,"shell: cotton 98%, spandex 2%",DENIM,dark_denim_blue,slim_fit,Yes,keyfibretype,1024711,6,,
-1024711006,men_jeans_slim,slim_jeans,29.99,2022-11-30 05:56:05,,1024711006,Only non-chlorine bleach when needed,,pocket lining: cotton 100%,DENIM,solid-color,slim_fit,Yes,denim,1024711,6,,
-979945003,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,Recycled cotton 20%,979945003,Tumble dry medium,,shell: cotton 100%,DENIM,black,loose_fit,Yes,keyfibretype,979945,3,,
-979945003,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,Recycled cotton 20%,979945003,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,loose_fit,Yes,denim,979945,3,,
-1024711008,men_jeans_slim,slim_jeans,29.99,2022-11-30 05:56:05,,1024711008,Tumble dry medium,,"shell: cotton 99%, spandex 1%",DENIM,dark_denim_gray,slim_fit,Yes,keyfibretype,1024711,8,,
-1024711008,men_jeans_slim,slim_jeans,29.99,2022-11-30 05:56:05,,1024711008,Only non-chlorine bleach when needed,,"pocket lining: polyester 80%, cotton 20%",DENIM,solid-color,slim_fit,Yes,denim,1024711,8,,
-690449059,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449059,Machine wash cool,,"cotton 98%, spandex 2%",DENIM,denim_blue,skinny_fit,Yes,keyfibretype,690449,59,,
-690449059,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449059,Machine wash cool,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,skinny_fit,Yes,denim,690449,59,,
-690449062,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449062,Tumble dry medium,,"shell: cotton 98%, spandex 2%",DENIM,light_denim_blue,skinny_fit,Yes,keyfibretype,690449,62,,
-690449062,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449062,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,skinny_fit,Yes,denim,690449,62,,
-1008110019,men_jeans_slim,freefit®_slim_jeans,49.99,2022-11-30 05:56:05,,1008110019,Tumble dry medium,,"shell: cotton 90%, elastomultiester 8%, spandex 2%",DENIM,black,slim_fit,Yes,denim,1008110,19,,
-1008110019,men_jeans_slim,freefit®_slim_jeans,49.99,2022-11-30 05:56:05,,1008110019,Only non-chlorine bleach when needed,,"pocket lining: polyester 80%, cotton 20%",DENIM,solid-color,slim_fit,Yes,denim,1008110,19,,
-1099503003,men_jeans_loose,baggy_jeans,39.99,2022-11-30 05:56:05,,1099503003,Tumble dry medium,,shell: cotton 100%,,dark_denim_blue,loose_fit,Yes,keyfibretype,1099503,3,78,33/32
-1099503003,men_jeans_loose,baggy_jeans,39.99,2022-11-30 05:56:05,,1099503003,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",,solid-color,loose_fit,Yes,denim,1099503,3,78,33/32
-985159008,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,,985159008,Tumble dry medium,,"shell: cotton 99%, spandex 1%",DENIM,dark_gray,skinny_fit,Yes,denim,985159,8,,
-985159008,men_jeans_skinny,skinny_jeans,24.99,2022-11-30 05:56:05,,985159008,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,skinny_fit,Yes,denim,985159,8,,
-1013317006,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-11-30 05:56:05,,1013317006,Tumble dry medium,,"cotton 79%, polyester 20%, spandex 1%",DENIM,black,regular_fit,Yes,denim,1013317,6,,
-690449064,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449064,Machine wash cool,,"shell: cotton 98%, spandex 2%",DENIM,black_white,skinny_fit,Yes,keyfibretype,690449,64,,
-690449064,men_jeans_ripped,skinny_jeans,39.99,2022-11-30 05:56:05,,690449064,Machine wash cool,,"pocket lining: polyester 65%, cotton 35%",DENIM,patterned,skinny_fit,Yes,denim,690449,64,,
-1008549002,men_jeans_regular,regular_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,1008549002,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,denim_blue,regular_fit,Yes,keyfibretype,1008549,2,,
-1008549002,men_jeans_regular,regular_jeans,24.99,2022-11-30 05:56:05,Recycled cotton 20%,1008549002,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,regular_fit,Yes,denim,1008549,2,,
-938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-11-30 05:56:05,,938875007,Only non-chlorine bleach when needed,,"cotton 99%, spandex 1%",DENIM,black,slim_fit,Yes,keyfibretype,938875,7,,
-938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-11-30 05:56:05,,938875007,Medium iron,,pocket lining: cotton 100%,DENIM,solid-color,slim_fit,Yes,denim,938875,7,,
-1099503002,men_jeans_loose,baggy_jeans,39.99,2022-11-30 05:56:05,,1099503002,Only non-chlorine bleach when needed,,shell: cotton 100%,,black,loose_fit,Yes,keyfibretype,1099503,2,78,33/32
-1099503002,men_jeans_loose,baggy_jeans,39.99,2022-11-30 05:56:05,,1099503002,Tumble dry medium,,"pocket lining: polyester 65%, cotton 35%",,solid-color,loose_fit,Yes,denim,1099503,2,78,33/32
-1013317002,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-11-30 05:56:05,Recycled cotton 19%,1013317002,Tumble dry medium,,"cotton 78%, polyester 21%, spandex 1%",DENIM,denim_blue,regular_fit,Yes,denim,1013317,2,,
-1008110002,men_jeans_slim,freefit®_slim_jeans,49.99,2022-11-30 05:56:05,,1008110002,Tumble dry medium,,"shell: cotton 90%, elastomultiester 8%, spandex 2%",DENIM,black,slim_fit,Yes,denim,1008110,2,,
-1008110002,men_jeans_slim,freefit®_slim_jeans,49.99,2022-11-30 05:56:05,,1008110002,Only non-chlorine bleach when needed,,pocket lining: cotton 100%,DENIM,solid-color,slim_fit,Yes,denim,1008110,2,,
-1004199007,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-11-30 05:56:05,,1004199007,Tumble dry medium,,"shell: cotton 98%, spandex 2%",DENIM,denim_blue,skinny_fit,Yes,denim,1004199,7,,
-1004199007,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-11-30 05:56:05,,1004199007,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,skinny_fit,Yes,denim,1004199,7,,
-1024711001,men_jeans_slim,slim_jeans,29.99,2022-11-30 05:56:05,,1024711001,Tumble dry medium,,"shell: cotton 98%, spandex 2%",DENIM,black,slim_fit,Yes,keyfibretype,1024711,1,,
-1024711001,men_jeans_slim,slim_jeans,29.99,2022-11-30 05:56:05,,1024711001,Only non-chlorine bleach when needed,,pocket lining: cotton 100%,DENIM,solid-color,slim_fit,Yes,denim,1024711,1,,
-1071707010,men_jeans_relaxed,relaxed_jeans,29.99,2022-11-30 05:56:05,,1071707010,Only non-chlorine bleach when needed,,shell: cotton 100%,DENIM,denim_gray,relaxed_fit,Yes,keyfibretype,1071707,10,81,33/32
-1071707010,men_jeans_relaxed,relaxed_jeans,29.99,2022-11-30 05:56:05,,1071707010,Tumble dry medium,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,relaxed_fit,Yes,denim,1071707,10,81,33/32
-1024256007,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256007,Only non-chlorine bleach when needed,,"shell: cotton 99%, spandex 1%",DENIM,dark_gray,slim_fit,Yes,denim,1024256,7,,
-1024256007,men_jeans_slim,slim_jeans,19.99,2022-11-30 05:56:05,,1024256007,Medium iron,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,slim_fit,Yes,denim,1024256,7,,
-979945012,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,,979945012,Tumble dry medium,,shell: cotton 100%,DENIM,gray,loose_fit,Yes,keyfibretype,979945,12,,
-979945012,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,,979945012,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,loose_fit,Yes,denim,979945,12,,
-979945025,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,,979945025,Tumble dry medium,,shell: cotton 100%,DENIM,purple,loose_fit,Yes,keyfibretype,979945,25,,
-979945025,men_jeans_loose,loose_jeans,39.99,2022-11-30 05:56:05,,979945025,Only non-chlorine bleach when needed,,"pocket lining: polyester 65%, cotton 35%",DENIM,solid-color,loose_fit,Yes,denim,979945,25,,
+product_id,style_id,color_id,product_name,composition,color,fit,price
+690449001,690449,1,skinny_jeans,"cotton 99%, spandex 1%",,skinny_fit,13.99
+690449002,690449,2,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,14.99
+690449006,690449,6,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,7.99
+690449007,690449,7,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,14.99
+690449009,690449,9,skinny_jeans,"cotton 99%, spandex 1%",,skinny_fit,17.99
+690449011,690449,11,skinny_jeans,"cotton 99%, spandex 1%",,skinny_fit,17.99
+690449013,690449,13,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,27.99
+690449021,690449,21,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,25.99
+690449022,690449,22,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449024,690449,24,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,20.99
+690449028,690449,28,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,19.99
+690449035,690449,35,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,21.99
+690449036,690449,36,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449040,690449,40,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,29.99
+690449043,690449,43,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449046,690449,46,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449051,690449,51,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449056,690449,56,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449059,690449,59,skinny_jeans,"cotton 98%, spandex 2%",,skinny_fit,39.99
+690449062,690449,62,skinny_jeans,"shell: cotton 98%, spandex 2%",,skinny_fit,39.99
+690449064,690449,64,skinny_jeans,"shell: cotton 98%, spandex 2%",,skinny_fit,39.99
+690449067,690449,67,skinny_jeans,"shell: cotton 98%, spandex 2%",,skinny_fit,39.99
+811993001,811993,1,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,12.99
+811993002,811993,2,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,29.99
+811993003,811993,3,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,18.99
+811993006,811993,6,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,14.99
+811993007,811993,7,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,22.99
+811993021,811993,21,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,20.99
+811993022,811993,22,regular_jeans,"cotton 99%, spandex 1%",,regular_fit,16.99
+811993024,811993,24,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,17.99
+811993025,811993,25,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,15.99
+811993028,811993,28,regular_jeans,"cotton 99%, spandex 1%",,regular_fit,19.99
+811993031,811993,31,regular_jeans,"cotton 99%, spandex 1%",,regular_fit,22.99
+811993034,811993,34,regular_jeans,"cotton 99%, spandex 1%",,regular_fit,29.99
+811993036,811993,36,regular_jeans,"cotton 99%, spandex 1%",,regular_fit,29.99
+811993037,811993,37,regular_jeans,"cotton 99%, spandex 1%",,regular_fit,29.99
+811993039,811993,39,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,29.99
+811993040,811993,40,regular_jeans,"cotton 98%, spandex 2%",,regular_fit,29.99
+811993044,811993,44,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,29.99
+811993048,811993,48,regular_jeans,"shell: cotton 98%, spandex 2%",,regular_fit,29.99
+811993053,811993,53,regular_jeans,"shell: cotton 98%, spandex 2%",,regular_fit,29.99
+875105001,875105,1,relaxed_jeans,cotton 100%,,relaxed_fit,22.99
+875105002,875105,2,relaxed_jeans,cotton 100%,,relaxed_fit,39.99
+875105003,875105,3,relaxed_jeans,cotton 100%,,relaxed_fit,39.99
+875105009,875105,9,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105011,875105,11,relaxed_jeans,shell: cotton 100%,,relaxed_fit,22.99
+875105015,875105,15,relaxed_jeans,cotton 100%,,relaxed_fit,22.99
+875105016,875105,16,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105017,875105,17,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105018,875105,18,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105023,875105,23,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105024,875105,24,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105026,875105,26,relaxed_jeans,cotton 100%,,relaxed_fit,39.99
+875105029,875105,29,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105040,875105,40,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+875105042,875105,42,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+927964001,927964,1,regular_tapered_crop_jeans,shell: cotton 100%,,regular_fit,19.99
+927964002,927964,2,regular_tapered_crop_jeans,shell: cotton 100%,,regular_fit,19.99
+927964003,927964,3,regular_tapered_crop_jeans,shell: cotton 100%,,regular_fit,19.99
+927964004,927964,4,regular_tapered_crop_jeans,shell: cotton 100%,,regular_fit,19.99
+927964005,927964,5,regular_tapered_crop_jeans,cotton 100%,,regular_fit,10.99
+927964013,927964,13,regular_tapered_crop_jeans,shell: cotton 100%,,regular_fit,19.99
+938875001,938875,1,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,29.99
+938875002,938875,2,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,39.99
+938875004,938875,4,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,18.99
+938875007,938875,7,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,39.99
+938875008,938875,8,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,39.99
+938875010,938875,10,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,22.99
+938875012,938875,12,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,39.99
+938875013,938875,13,slim_tapered_jeans,"cotton 99%, spandex 1%",,slim_fit,21.99
+938875014,938875,14,slim_tapered_jeans,"shell: cotton 98%, spandex 2%",,slim_fit,29.99
+971061001,971061,1,slim_tapered_cropped_jeans,"cotton 99%, spandex 1%",,slim_fit,29.99
+971061002,971061,2,slim_tapered_cropped_jeans,"cotton 99%, spandex 1%",,slim_fit,29.99
+971061004,971061,4,slim_tapered_cropped_jeans,"cotton 99%, spandex 1%",,slim_fit,29.99
+971061005,971061,5,slim_tapered_cropped_jeans,"cotton 99%, spandex 1%",,slim_fit,29.99
+971061006,971061,6,slim_tapered_cropped_jeans,"cotton 99%, spandex 1%",,slim_fit,29.99
+979945001,979945,1,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+979945002,979945,2,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+979945003,979945,3,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+979945009,979945,9,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+979945012,979945,12,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+979945019,979945,19,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+979945025,979945,25,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+985159001,985159,1,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985159002,985159,2,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985159003,985159,3,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,11.99
+985159004,985159,4,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985159005,985159,5,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985159006,985159,6,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985159007,985159,7,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985159008,985159,8,skinny_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,24.99
+985197001,985197,1,slim_jeans,"shell: cotton 98%, spandex 2%",,slim_fit,19.99
+985197002,985197,2,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,6.99
+985197003,985197,3,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+985197004,985197,4,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+985197005,985197,5,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,15.99
+985197006,985197,6,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+985197007,985197,7,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+993887001,993887,1,hybrid_regular_jeans,"cotton 77%, polyester 21%, spandex 2%",,regular_fit,39.99
+993887002,993887,2,hybrid_regular_jeans,"cotton 77%, polyester 21%, spandex 2%",,regular_fit,29.99
+993887004,993887,4,hybrid_regular_jeans,"cotton 79%, polyester 20%, spandex 1%",,regular_fit,22.99
+993887007,993887,7,hybrid_regular_jeans,"cotton 80%, polyester 19%, spandex 1%",,regular_fit,39.99
+993887008,993887,8,hybrid_regular_jeans,"cotton 78%, polyester 21%, spandex 1%",,regular_fit,39.99
+1004199001,1004199,1,skinny_cropped_jeans,"cotton 99%, spandex 1%",,skinny_fit,29.99
+1004199002,1004199,2,skinny_cropped_jeans,"cotton 99%, spandex 1%",,skinny_fit,29.99
+1004199003,1004199,3,skinny_cropped_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,14.99
+1004199004,1004199,4,skinny_cropped_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,29.99
+1004199005,1004199,5,skinny_cropped_jeans,"shell: cotton 99%, spandex 1%",,skinny_fit,29.99
+1004199007,1004199,7,skinny_cropped_jeans,"shell: cotton 98%, spandex 2%",,skinny_fit,29.99
+1008110001,1008110,1,freefit®_slim_jeans,"shell: cotton 90%, elastomultiester 8%, spandex 2%",,slim_fit,49.99
+1008110002,1008110,2,freefit®_slim_jeans,"shell: cotton 90%, elastomultiester 8%, spandex 2%",,slim_fit,49.99
+1008110003,1008110,3,freefit®_slim_jeans,"shell: cotton 89%, elastomultiester 9%, spandex 2%",,slim_fit,49.99
+1008110005,1008110,5,freefit®_slim_jeans,"shell: cotton 89%, elastomultiester 9%, spandex 2%",,slim_fit,49.99
+1008110006,1008110,6,freefit®_slim_jeans,"shell: cotton 89%, elastomultiester 9%, spandex 2%",,slim_fit,49.99
+1008110015,1008110,15,freefit®_slim_jeans,"shell: cotton 90%, elastomultiester 8%, spandex 2%",,slim_fit,49.99
+1008110019,1008110,19,freefit®_slim_jeans,"shell: cotton 90%, elastomultiester 8%, spandex 2%",,slim_fit,49.99
+1008549001,1008549,1,regular_jeans,"shell: cotton 98%, spandex 2%",,regular_fit,24.99
+1008549002,1008549,2,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,24.99
+1008549003,1008549,3,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,24.99
+1008549004,1008549,4,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,24.99
+1008549005,1008549,5,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,24.99
+1008549006,1008549,6,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,24.99
+1008549007,1008549,7,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,11.99
+1008549008,1008549,8,regular_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,10.99
+1013317001,1013317,1,hybrid_regular_tapered_joggers,"cotton 77%, polyester 21%, spandex 2%",,regular_fit,39.99
+1013317002,1013317,2,hybrid_regular_tapered_joggers,"cotton 78%, polyester 21%, spandex 1%",,regular_fit,39.99
+1013317003,1013317,3,hybrid_regular_tapered_joggers,"cotton 77%, polyester 21%, spandex 2%",,regular_fit,39.99
+1013317004,1013317,4,hybrid_regular_tapered_joggers,"cotton 78%, polyester 21%, spandex 1%",,regular_fit,20.99
+1013317005,1013317,5,hybrid_regular_tapered_joggers,"cotton 79%, polyester 19%, spandex 2%",,regular_fit,39.99
+1013317006,1013317,6,hybrid_regular_tapered_joggers,"cotton 79%, polyester 20%, spandex 1%",,regular_fit,39.99
+1013317008,1013317,8,hybrid_regular_tapered_joggers,"cotton 77%, polyester 21%, spandex 2%",,regular_fit,15.99
+1013317010,1013317,10,hybrid_regular_tapered_joggers,"cotton 80%, polyester 19%, spandex 1%",,regular_fit,22.99
+1013317012,1013317,12,hybrid_regular_tapered_joggers,"cotton 78%, polyester 21%, spandex 1%",,regular_fit,39.99
+1018704001,1018704,1,relaxed_pull-on_jeans,shell: cotton 100%,,relaxed_fit,24.99
+1018704002,1018704,2,relaxed_pull-on_jeans,shell: cotton 100%,,relaxed_fit,24.99
+1018704003,1018704,3,relaxed_pull-on_jeans,shell: cotton 100%,,relaxed_fit,24.99
+1024256001,1024256,1,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256002,1024256,2,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256003,1024256,3,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256004,1024256,4,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256005,1024256,5,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256006,1024256,6,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256007,1024256,7,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024256008,1024256,8,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,19.99
+1024711001,1024711,1,slim_jeans,"shell: cotton 98%, spandex 2%",,slim_fit,29.99
+1024711002,1024711,2,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,29.99
+1024711004,1024711,4,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,8.99
+1024711006,1024711,6,slim_jeans,"shell: cotton 98%, spandex 2%",,slim_fit,29.99
+1024711008,1024711,8,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,29.99
+1024711010,1024711,10,slim_jeans,"shell: cotton 99%, spandex 1%",,slim_fit,29.99
+1025726002,1025726,2,relaxed_jeans,shell: cotton 100%,,relaxed_fit,11.99
+1025726003,1025726,3,relaxed_jeans,shell: cotton 100%,,relaxed_fit,39.99
+1027852002,1027852,2,relaxed_denim_joggers,shell: cotton 100%,,relaxed_fit,29.99
+1027852006,1027852,6,relaxed_denim_joggers,shell: cotton 100%,,relaxed_fit,29.99
+1027852007,1027852,7,relaxed_denim_joggers,shell: cotton 100%,,relaxed_fit,29.99
+1027852009,1027852,9,relaxed_denim_joggers,shell: cotton 100%,,relaxed_fit,29.99
+1044249001,1044249,1,loose_pull-on_jeans,"shell: rayon 50%, lyocell 50%",,loose_fit,44.99
+1044249002,1044249,2,loose_pull-on_jeans,"shell: rayon 50%, lyocell 50%",,loose_fit,44.99
+1051644001,1051644,1,loose_jeans,"shell: lyocell 55%, cotton 30%, rayon 15%",,loose_fit,44.99
+1063141001,1063141,1,loose_jeans,"shell: lyocell 55%, cotton 30%, rayon 15%",,loose_fit,44.99
+1071707001,1071707,1,relaxed_jeans,shell: cotton 100%,,relaxed_fit,29.99
+1071707002,1071707,2,relaxed_jeans,shell: cotton 100%,,relaxed_fit,29.99
+1071707003,1071707,3,relaxed_jeans,shell: cotton 100%,,relaxed_fit,29.99
+1071707008,1071707,8,relaxed_jeans,shell: cotton 100%,,relaxed_fit,29.99
+1071707010,1071707,10,relaxed_jeans,shell: cotton 100%,,relaxed_fit,29.99
+1074475001,1074475,1,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+1074475002,1074475,2,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+1074475003,1074475,3,loose_jeans,shell: cotton 100%,,loose_fit,39.99
+1096385001,1096385,1,loose_jeans,shell: cotton 100%,,loose_fit,29.99
+1096385002,1096385,2,loose_jeans,shell: cotton 100%,,loose_fit,29.99
+1099503001,1099503,1,baggy_jeans,shell: cotton 100%,,loose_fit,39.99
+1099503002,1099503,2,baggy_jeans,shell: cotton 100%,,loose_fit,39.99
+1099503003,1099503,3,baggy_jeans,shell: cotton 100%,,loose_fit,39.99
+1100162002,1100162,2,essentials_no_2:_the_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,39.99
+1100162003,1100162,3,essentials_no_2:_the_jeans,"shell: cotton 99%, spandex 1%",,regular_fit,39.99
+1107750001,1107750,1,relaxed_worker_jeans,shell: cotton 100%,,relaxed_fit,44.99
+1107750002,1107750,2,relaxed_worker_jeans,shell: cotton 100%,,relaxed_fit,44.99
+1114023001,1114023,1,loose_jeans,shell: cotton 100%,,loose_fit,44.99
+1114023003,1114023,3,loose_jeans,shell: cotton 100%,,loose_fit,44.99

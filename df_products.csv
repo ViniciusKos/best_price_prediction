@@ -1,69 +1,359 @@
-product_id,product_category,product_name,product_price,scrapy_datetime,additional material information,art. no.,care instructions,collection,composition,concept,description,fit,imported,material,size,style_id,color_id
-1024256001,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256001,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Black,Slim fit,Yes,Denim,,1024256,001
-1024256001,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256001,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Slim fit,Yes,Denim,,1024256,001
-0985159001,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,0985159001,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Black,Skinny fit,Yes,Denim,,0985159,001
-0985159001,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,0985159001,Medium iron,,Cotton 100%,DENIM,Solid-color,Skinny fit,Yes,Denim,,0985159,001
-1008549001,men_jeans_regular,Regular Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,1008549001,Only non-chlorine bleach when needed,,"Cotton 98%, Spandex 2%",DENIM,Light denim blue,Regular fit,Yes,keyFibreType,,1008549,001
-1008549001,men_jeans_regular,Regular Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,1008549001,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Regular fit,Yes,Denim,,1008549,001
-0690449067,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449067,Only non-chlorine bleach when needed,,"Cotton 98%, Spandex 2%",DENIM,Denim blue,Skinny fit,Yes,keyFibreType,,0690449,067
-0690449067,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449067,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Skinny fit,Yes,Denim,,0690449,067
-0690449051,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0690449051,Only non-chlorine bleach when needed,,"Cotton 98%, Spandex 2%",DENIM,Gray,Skinny fit,Yes,keyFibreType,,0690449,051
-0985159007,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,,0985159007,Tumble dry medium,,"Cotton 99%, Spandex 1%",DENIM,Denim blue,Skinny fit,Yes,Denim,,0985159,007
-0985159007,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,,0985159007,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Skinny fit,Yes,Denim,,0985159,007
-1024256003,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256003,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Light denim blue,Slim fit,Yes,Denim,,1024256,003
-1024256003,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256003,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Slim fit,Yes,Denim,,1024256,003
-0979945002,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0979945002,Tumble dry medium,,Cotton 100%,DENIM,Denim blue,Loose fit,Yes,keyFibreType,,0979945,002
-0979945002,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0979945002,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Loose fit,Yes,Denim,,0979945,002
-0979945001,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0979945001,Tumble dry medium,,Cotton 100%,DENIM,Light denim blue,Loose fit,Yes,keyFibreType,,0979945,001
-0979945001,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0979945001,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Loose fit,Yes,Denim,,0979945,001
-1008549006,men_jeans_regular,Regular Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,1008549006,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Black,Regular fit,Yes,keyFibreType,,1008549,006
-1008549006,men_jeans_regular,Regular Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,1008549006,Medium iron,,Pocket: Cotton 100%,DENIM,Solid-color,Regular fit,Yes,Denim,,1008549,006
-1024256005,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256005,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Dark blue,Slim fit,Yes,Denim,,1024256,005
-1024256005,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256005,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Slim fit,Yes,Denim,,1024256,005
-0690449036,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449036,Only non-chlorine bleach when needed,,"Cotton 98%, Spandex 2%",DENIM,Black,Skinny fit,Yes,keyFibreType,,0690449,036
-0690449022,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449022,Only non-chlorine bleach when needed,,"Cotton 98%, Spandex 2%",DENIM,Black,Skinny fit,Yes,keyFibreType,,0690449,022
-0690449022,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449022,Medium iron,,: Polyester 100%,DENIM,Solid-color,Skinny fit,Yes,Denim,,0690449,022
-1024256004,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256004,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Denim blue,Slim fit,Yes,Denim,,1024256,004
-1024256004,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256004,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Slim fit,Yes,Denim,,1024256,004
-0979945003,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0979945003,Tumble dry medium,,Cotton 100%,DENIM,Black,Loose fit,Yes,keyFibreType,,0979945,003
-0979945003,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,Recycled cotton 20%,0979945003,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Loose fit,Yes,Denim,,0979945,003
-1099503003,men_jeans_loose,Baggy Jeans,$ 39.99,2022-12-02 14:51:08,,1099503003,Tumble dry medium,,Cotton 100%,,Dark denim blue,Loose fit,Yes,keyFibreType,Inner leg: Length: 78.0 cm (Size 33/32),1099503,003
-1099503003,men_jeans_loose,Baggy Jeans,$ 39.99,2022-12-02 14:51:08,,1099503003,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",,Solid-color,Loose fit,Yes,Denim,Inner leg: Length: 78.0 cm (Size 33/32),1099503,003
-0979945012,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,,0979945012,Tumble dry medium,,Cotton 100%,DENIM,Gray,Loose fit,Yes,keyFibreType,,0979945,012
-0979945012,men_jeans_loose,Loose Jeans,$ 39.99,2022-12-02 14:51:08,,0979945012,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Loose fit,Yes,Denim,,0979945,012
-0690449062,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449062,Tumble dry medium,,"Cotton 98%, Spandex 2%",DENIM,Light denim blue,Skinny fit,Yes,keyFibreType,,0690449,062
-0690449062,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449062,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Skinny fit,Yes,Denim,,0690449,062
-1024256006,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256006,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Dark denim blue,Slim fit,Yes,Denim,,1024256,006
-1024256006,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256006,Medium iron,,Cotton 100%,DENIM,Solid-color,Slim fit,Yes,Denim,,1024256,006
-0985159008,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,,0985159008,Tumble dry medium,,"Cotton 99%, Spandex 1%",DENIM,Dark gray,Skinny fit,Yes,Denim,,0985159,008
-0985159008,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,,0985159008,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Skinny fit,Yes,Denim,,0985159,008
-1024711006,men_jeans_slim,Slim Jeans,$ 29.99,2022-12-02 14:51:08,,1024711006,Tumble dry medium,,"Cotton 98%, Spandex 2%",DENIM,Dark denim blue,Slim fit,Yes,keyFibreType,,1024711,006
-1024711006,men_jeans_slim,Slim Jeans,$ 29.99,2022-12-02 14:51:08,,1024711006,Only non-chlorine bleach when needed,,Cotton 100%,DENIM,Solid-color,Slim fit,Yes,Denim,,1024711,006
-1024256007,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256007,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Dark gray,Slim fit,Yes,Denim,,1024256,007
-1024256007,men_jeans_slim,Slim Jeans,$ 19.99,2022-12-02 14:51:08,,1024256007,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Slim fit,Yes,Denim,,1024256,007
-1099503002,men_jeans_loose,Baggy Jeans,$ 39.99,2022-12-02 14:51:08,,1099503002,Only non-chlorine bleach when needed,,Cotton 100%,,Black,Loose fit,Yes,keyFibreType,Inner leg: Length: 78.0 cm (Size 33/32),1099503,002
-1099503002,men_jeans_loose,Baggy Jeans,$ 39.99,2022-12-02 14:51:08,,1099503002,Tumble dry medium,,"Polyester 65%, Cotton 35%",,Solid-color,Loose fit,Yes,Denim,Inner leg: Length: 78.0 cm (Size 33/32),1099503,002
-1013317006,men_jeans_joggers,Hybrid Regular Tapered Joggers,$ 39.99,2022-12-02 14:51:08,,1013317006,Tumble dry medium,,"Cotton 79%, Polyester 20%, Spandex 1%",DENIM,Black,Regular fit,Yes,Denim,,1013317,006
-1008549002,men_jeans_regular,Regular Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,1008549002,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Denim blue,Regular fit,Yes,keyFibreType,,1008549,002
-1008549002,men_jeans_regular,Regular Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,1008549002,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Regular fit,Yes,Denim,,1008549,002
-1004199002,men_jeans_skinny,Skinny Cropped Jeans,$ 29.99,2022-12-02 14:51:08,Recycled cotton 20%,1004199002,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Black,Skinny fit,Yes,Denim,,1004199,002
-0690449043,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449043,Only non-chlorine bleach when needed,,"Cotton 98%, Spandex 2%",DENIM,Light denim blue,Skinny fit,Yes,keyFibreType,,0690449,043
-0690449043,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449043,Medium iron,,"Polyester 65%, Cotton 35%",DENIM,Light denim blue,Skinny fit,Yes,Denim,,0690449,043
-0985159005,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,0985159005,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Dark blue,Skinny fit,Yes,Denim,,0985159,005
-0985159005,men_jeans_skinny,Skinny Jeans,$ 24.99,2022-12-02 14:51:08,Recycled cotton 20%,0985159005,Medium iron,,Cotton 100%,DENIM,Solid-color,Skinny fit,Yes,Denim,,0985159,005
-1008110001,men_jeans_slim,Freefit® Slim Jeans,$ 49.99,2022-12-02 14:51:08,,1008110001,Tumble dry medium,,"Cotton 90%, Elastomultiester 8%, Spandex 2%",DENIM,Dark denim blue,Slim fit,Yes,Denim,,1008110,001
-1008110001,men_jeans_slim,Freefit® Slim Jeans,$ 49.99,2022-12-02 14:51:08,,1008110001,Only non-chlorine bleach when needed,,"Polyester 80%, Cotton 20%",DENIM,Solid-color,Slim fit,Yes,Denim,,1008110,001
-0690449059,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449059,Machine wash cool,,"Cotton 98%, Spandex 2%",DENIM,Denim blue,Skinny fit,Yes,keyFibreType,,0690449,059
-0690449059,men_jeans_ripped,Skinny Jeans,$ 39.99,2022-12-02 14:51:08,,0690449059,Machine wash cool,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Skinny fit,Yes,Denim,,0690449,059
-1024711008,men_jeans_slim,Slim Jeans,$ 29.99,2022-12-02 14:51:08,,1024711008,Tumble dry medium,,"Cotton 99%, Spandex 1%",DENIM,Dark denim gray,Slim fit,Yes,keyFibreType,,1024711,008
-1024711008,men_jeans_slim,Slim Jeans,$ 29.99,2022-12-02 14:51:08,,1024711008,Only non-chlorine bleach when needed,,"Polyester 80%, Cotton 20%",DENIM,Solid-color,Slim fit,Yes,Denim,,1024711,008
-1024711001,men_jeans_slim,Slim Jeans,$ 29.99,2022-12-02 14:51:08,,1024711001,Tumble dry medium,,"Cotton 98%, Spandex 2%",DENIM,Black,Slim fit,Yes,keyFibreType,,1024711,001
-1024711001,men_jeans_slim,Slim Jeans,$ 29.99,2022-12-02 14:51:08,,1024711001,Only non-chlorine bleach when needed,,Cotton 100%,DENIM,Solid-color,Slim fit,Yes,Denim,,1024711,001
-1107750001,men_jeans_relaxed,Relaxed Worker Jeans,$ 44.99,2022-12-02 14:51:08,,1107750001,Tumble dry medium,,Cotton 100%,DENIM,Denim blue,Relaxed fit,Yes,keyFibreType,Inner leg: Length: 80.0 cm (Size 33/32),1107750,001
-1107750001,men_jeans_relaxed,Relaxed Worker Jeans,$ 44.99,2022-12-02 14:51:08,,1107750001,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Relaxed fit,Yes,Denim,Inner leg: Length: 80.0 cm (Size 33/32),1107750,001
-0938875007,men_jeans_slim,Slim Tapered Jeans,$ 39.99,2022-12-02 14:51:08,,0938875007,Only non-chlorine bleach when needed,,"Cotton 99%, Spandex 1%",DENIM,Black,Slim fit,Yes,keyFibreType,,0938875,007
-0938875007,men_jeans_slim,Slim Tapered Jeans,$ 39.99,2022-12-02 14:51:08,,0938875007,Medium iron,,Cotton 100%,DENIM,Solid-color,Slim fit,Yes,Denim,,0938875,007
-1008110019,men_jeans_slim,Freefit® Slim Jeans,$ 49.99,2022-12-02 14:51:08,,1008110019,Tumble dry medium,,"Cotton 90%, Elastomultiester 8%, Spandex 2%",DENIM,Black,Slim fit,Yes,Denim,,1008110,019
-1008110019,men_jeans_slim,Freefit® Slim Jeans,$ 49.99,2022-12-02 14:51:08,,1008110019,Only non-chlorine bleach when needed,,"Polyester 80%, Cotton 20%",DENIM,Solid-color,Slim fit,Yes,Denim,,1008110,019
-1004199007,men_jeans_skinny,Skinny Cropped Jeans,$ 29.99,2022-12-02 14:51:08,,1004199007,Tumble dry medium,,"Cotton 98%, Spandex 2%",DENIM,Denim blue,Skinny fit,Yes,Denim,,1004199,007
-1004199007,men_jeans_skinny,Skinny Cropped Jeans,$ 29.99,2022-12-02 14:51:08,,1004199007,Only non-chlorine bleach when needed,,"Polyester 65%, Cotton 35%",DENIM,Solid-color,Skinny fit,Yes,Denim,,1004199,007
+product_id,product_name,composition,color,size,fit,additional material information,messages.garmentlength,messages.waistrise,care instructions,material,description,imported,concept,price,messages.clothingstyle,collection,style_id,color_id,scrapy_datetime
+0690449001,Skinny Jeans,"Cotton 99%, Spandex 1%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Light denim blue,Yes,DENIM,"
+                $13.99",Trashed,,0690449,001,2022-12-04 07:13:59.233497
+0690449002,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Denim blue,Yes,DENIM,"
+                $14.99",Trashed,,0690449,002,2022-12-04 07:13:59.233497
+0690449006,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Black,Yes,DENIM,"
+                $7.99",Trashed,,0690449,006,2022-12-04 07:13:59.233497
+0690449007,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light blue,Yes,DENIM,"
+                $14.99",Trashed,,0690449,007,2022-12-04 07:13:59.233497
+0690449009,Skinny Jeans,"Cotton 99%, Spandex 1%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Black,Yes,DENIM,"
+                $17.99",Trashed,,0690449,009,2022-12-04 07:13:59.233497
+0690449011,Skinny Jeans,"Cotton 99%, Spandex 1%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,White,Yes,DENIM,"
+                $17.99",Trashed,,0690449,011,2022-12-04 07:13:59.233497
+0690449013,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Black,Yes,DENIM,"
+                $27.99",Trashed,,0690449,013,2022-12-04 07:13:59.233497
+0690449021,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $25.99",Trashed,,0690449,021,2022-12-04 07:13:59.233497
+0690449022,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",Trashed,,0690449,022,2022-12-04 07:13:59.233497
+0690449024,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Dark blue,Yes,DENIM,"
+                $20.99",Trashed,,0690449,024,2022-12-04 07:13:59.233497
+0690449028,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Dark blue,Yes,DENIM,"
+                $19.99",Trashed,,0690449,028,2022-12-04 07:13:59.233497
+0690449035,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Denim blue,Yes,DENIM,"
+                $21.99",Trashed,,0690449,035,2022-12-04 07:13:59.233497
+0690449036,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",Trashed,,0690449,036,2022-12-04 07:13:59.233497
+0690449040,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Denim gray,Yes,DENIM,"
+                $29.99",Trashed,,0690449,040,2022-12-04 07:13:59.233497
+0690449043,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $39.99",Trashed,,0690449,043,2022-12-04 07:13:59.233497
+0690449046,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Light denim gray,Yes,DENIM,"
+                $39.99",Trashed,,0690449,046,2022-12-04 07:13:59.233497
+0690449051,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Gray,Yes,DENIM,"
+                $39.99",Trashed,,0690449,051,2022-12-04 07:13:59.233497
+0690449056,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $39.99",Trashed,,0690449,056,2022-12-04 07:13:59.233497
+0690449059,Skinny Jeans,"Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",Trashed,,0690449,059,2022-12-04 07:13:59.233497
+0690449062,Skinny Jeans,"Shell: Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $39.99",Trashed,,0690449,062,2022-12-04 07:13:59.233497
+0690449064,Skinny Jeans,"Shell: Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Machine wash cool,keyFibreType,Black/white,Yes,DENIM,"
+                $39.99",Trashed,,0690449,064,2022-12-04 07:13:59.233497
+0690449067,Skinny Jeans,"Shell: Cotton 98%, Spandex 2%",,,Skinny fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",Trashed,,0690449,067,2022-12-04 07:13:59.233497
+0811993001,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Machine wash cool,Denim,Black,Yes,DENIM,"
+                $12.99",Tapered,,0811993,001,2022-12-04 07:13:59.233497
+0811993002,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Machine wash cool,Denim,Denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,002,2022-12-04 07:13:59.233497
+0811993003,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $18.99",Tapered,,0811993,003,2022-12-04 07:13:59.233497
+0811993006,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Machine wash cool,Denim,Graphite gray,Yes,DENIM,"
+                $14.99",Tapered,,0811993,006,2022-12-04 07:13:59.233497
+0811993007,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $22.99",Tapered,,0811993,007,2022-12-04 07:13:59.233497
+0811993021,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Black,Yes,DENIM,"
+                $20.99",Tapered,,0811993,021,2022-12-04 07:13:59.233497
+0811993022,Regular Jeans,"Cotton 99%, Spandex 1%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Cream,Yes,DENIM,"
+                $16.99",Tapered,,0811993,022,2022-12-04 07:13:59.233497
+0811993024,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $17.99",Tapered,,0811993,024,2022-12-04 07:13:59.233497
+0811993025,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Light blue,Yes,DENIM,"
+                $15.99",Tapered,,0811993,025,2022-12-04 07:13:59.233497
+0811993028,Regular Jeans,"Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $19.99",Tapered,,0811993,028,2022-12-04 07:13:59.233497
+0811993031,Regular Jeans,"Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark denim blue,Yes,DENIM,"
+                $22.99",Tapered,,0811993,031,2022-12-04 07:13:59.233497
+0811993034,Regular Jeans,"Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Pale denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,034,2022-12-04 07:13:59.233497
+0811993036,Regular Jeans,"Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,036,2022-12-04 07:13:59.233497
+0811993037,Regular Jeans,"Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Dark blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,037,2022-12-04 07:13:59.233497
+0811993039,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,039,2022-12-04 07:13:59.233497
+0811993040,Regular Jeans,"Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $29.99",Tapered,,0811993,040,2022-12-04 07:13:59.233497
+0811993044,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,044,2022-12-04 07:13:59.233497
+0811993048,Regular Jeans,"Shell: Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Dark blue,Yes,DENIM,"
+                $29.99",Tapered,,0811993,048,2022-12-04 07:13:59.233497
+0811993053,Regular Jeans,"Shell: Cotton 98%, Spandex 2%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Dark denim gray,Yes,DENIM,"
+                $29.99",Tapered,,0811993,053,2022-12-04 07:13:59.233497
+0875105001,Relaxed Jeans,Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,DENIM,"
+                $22.99",,,0875105,001,2022-12-04 07:13:59.233497
+0875105002,Relaxed Jeans,Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",,,0875105,002,2022-12-04 07:13:59.233497
+0875105003,Relaxed Jeans,Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $39.99",,,0875105,003,2022-12-04 07:13:59.233497
+0875105009,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $39.99",,,0875105,009,2022-12-04 07:13:59.233497
+0875105011,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $22.99",,,0875105,011,2022-12-04 07:13:59.233497
+0875105015,Relaxed Jeans,Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $22.99",,,0875105,015,2022-12-04 07:13:59.233497
+0875105016,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",,,0875105,016,2022-12-04 07:13:59.233497
+0875105017,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $39.99",,,0875105,017,2022-12-04 07:13:59.233497
+0875105018,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Pale denim blue,Yes,DENIM,"
+                $39.99",,,0875105,018,2022-12-04 07:13:59.233497
+0875105023,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",,,0875105,023,2022-12-04 07:13:59.233497
+0875105024,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $39.99",,,0875105,024,2022-12-04 07:13:59.233497
+0875105026,Relaxed Jeans,Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light gray,Yes,DENIM,"
+                $39.99",,,0875105,026,2022-12-04 07:13:59.233497
+0875105029,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",,,0875105,029,2022-12-04 07:13:59.233497
+0875105040,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Machine wash cool,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",,,0875105,040,2022-12-04 07:13:59.233497
+0875105042,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,Machine wash cool,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $39.99",,,0875105,042,2022-12-04 07:13:59.233497
+0927964001,Regular Tapered Crop Jeans,Shell: Cotton 100%,,,Regular fit,Recycled cotton 20%,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Denim blue,Yes,DENIM,"
+                $19.99",Tapered,,0927964,001,2022-12-04 07:13:59.233497
+0927964002,Regular Tapered Crop Jeans,Shell: Cotton 100%,,,Regular fit,Recycled cotton 20%,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Light denim blue,Yes,DENIM,"
+                $19.99",Tapered,,0927964,002,2022-12-04 07:13:59.233497
+0927964003,Regular Tapered Crop Jeans,Shell: Cotton 100%,,,Regular fit,,Ankle-length,Regular waist,Tumble dry medium,Denim,Dark gray,Yes,DENIM,"
+                $19.99",Tapered,,0927964,003,2022-12-04 07:13:59.233497
+0927964004,Regular Tapered Crop Jeans,Shell: Cotton 100%,,,Regular fit,Recycled cotton 20%,Ankle-length,Regular waist,Tumble dry medium,Denim,Steel blue,Yes,DENIM,"
+                $19.99",Tapered,,0927964,004,2022-12-04 07:13:59.233497
+0927964005,Regular Tapered Crop Jeans,Cotton 100%,,,Regular fit,Recycled cotton 20%,Ankle-length,Regular waist,Tumble dry medium,Denim,White,Yes,DENIM,"
+                $10.99",Tapered,,0927964,005,2022-12-04 07:13:59.233497
+0927964013,Regular Tapered Crop Jeans,Shell: Cotton 100%,,,Regular fit,,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Black,Yes,DENIM,"
+                $19.99",Tapered,,0927964,013,2022-12-04 07:13:59.233497
+0938875001,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0938875,001,2022-12-04 07:13:59.233497
+0938875002,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,White,Yes,DENIM,"
+                $39.99",Tapered,,0938875,002,2022-12-04 07:13:59.233497
+0938875004,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark gray,Yes,DENIM,"
+                $18.99",Tapered,,0938875,004,2022-12-04 07:13:59.233497
+0938875007,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",Tapered,,0938875,007,2022-12-04 07:13:59.233497
+0938875008,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",Tapered,,0938875,008,2022-12-04 07:13:59.233497
+0938875010,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light blue,Yes,DENIM,"
+                $22.99",Tapered,,0938875,010,2022-12-04 07:13:59.233497
+0938875012,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",Tapered,,0938875,012,2022-12-04 07:13:59.233497
+0938875013,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Pale denim blue,Yes,DENIM,"
+                $21.99",Tapered,,0938875,013,2022-12-04 07:13:59.233497
+0938875014,Slim Tapered Jeans,"Shell: Cotton 98%, Spandex 2%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $29.99",Tapered,,0938875,014,2022-12-04 07:13:59.233497
+0971061001,Slim Tapered Cropped Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Ankle-length,Regular waist,Tumble dry medium,Denim,Pale denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0971061,001,2022-12-04 07:13:59.233497
+0971061002,Slim Tapered Cropped Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Ankle-length,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0971061,002,2022-12-04 07:13:59.233497
+0971061004,Slim Tapered Cropped Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Ankle-length,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $29.99",Tapered,,0971061,004,2022-12-04 07:13:59.233497
+0971061005,Slim Tapered Cropped Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Ankle-length,Regular waist,Tumble dry medium,Denim,Dark denim gray,Yes,DENIM,"
+                $29.99",Tapered,,0971061,005,2022-12-04 07:13:59.233497
+0971061006,Slim Tapered Cropped Jeans,"Cotton 99%, Spandex 1%",,,Slim fit,,Ankle-length,Regular waist,Tumble dry medium,Denim,Solid-color,Yes,DENIM,"
+                $29.99",Tapered,,0971061,006,2022-12-04 07:13:59.233497
+0979945001,Loose Jeans,Shell: Cotton 100%,,,Loose fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $39.99",,,0979945,001,2022-12-04 07:13:59.233497
+0979945002,Loose Jeans,Shell: Cotton 100%,,,Loose fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",,,0979945,002,2022-12-04 07:13:59.233497
+0979945003,Loose Jeans,Shell: Cotton 100%,,,Loose fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Black,Yes,DENIM,"
+                $39.99",,,0979945,003,2022-12-04 07:13:59.233497
+0979945009,Loose Jeans,Shell: Cotton 100%,,,Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light gray,Yes,DENIM,"
+                $39.99",,,0979945,009,2022-12-04 07:13:59.233497
+0979945012,Loose Jeans,Shell: Cotton 100%,,,Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Gray,Yes,DENIM,"
+                $39.99",,,0979945,012,2022-12-04 07:13:59.233497
+0979945019,Loose Jeans,Shell: Cotton 100%,,,Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",,,0979945,019,2022-12-04 07:13:59.233497
+0979945025,Loose Jeans,Shell: Cotton 100%,,,Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Purple,Yes,DENIM,"
+                $39.99",,,0979945,025,2022-12-04 07:13:59.233497
+0985159001,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Black,Yes,DENIM,"
+                $24.99",,,0985159,001,2022-12-04 07:13:59.233497
+0985159002,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Denim blue,Yes,DENIM,"
+                $24.99",,,0985159,002,2022-12-04 07:13:59.233497
+0985159003,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark gray,Yes,DENIM,"
+                $11.99",,,0985159,003,2022-12-04 07:13:59.233497
+0985159004,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $24.99",,,0985159,004,2022-12-04 07:13:59.233497
+0985159005,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark blue,Yes,DENIM,"
+                $24.99",,,0985159,005,2022-12-04 07:13:59.233497
+0985159006,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $24.99",,,0985159,006,2022-12-04 07:13:59.233497
+0985159007,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $24.99",,,0985159,007,2022-12-04 07:13:59.233497
+0985159008,Skinny Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,,Long,Regular waist,Tumble dry medium,Denim,Dark gray,Yes,DENIM,"
+                $24.99",,,0985159,008,2022-12-04 07:13:59.233497
+0985197001,Slim Jeans,"Shell: Cotton 98%, Spandex 2%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Black,Yes,DENIM,"
+                $19.99",,,0985197,001,2022-12-04 07:13:59.233497
+0985197002,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Midnight blue,Yes,DENIM,"
+                $6.99",,,0985197,002,2022-12-04 07:13:59.233497
+0985197003,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Denim blue,Yes,DENIM,"
+                $19.99",,,0985197,003,2022-12-04 07:13:59.233497
+0985197004,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark denim blue,Yes,DENIM,"
+                $19.99",,,0985197,004,2022-12-04 07:13:59.233497
+0985197005,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark denim blue,Yes,DENIM,"
+                $15.99",,,0985197,005,2022-12-04 07:13:59.233497
+0985197006,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Light denim blue,Yes,DENIM,"
+                $19.99",,,0985197,006,2022-12-04 07:13:59.233497
+0985197007,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark gray,Yes,DENIM,"
+                $19.99",,,0985197,007,2022-12-04 07:13:59.233497
+0993887001,Hybrid Regular Jeans,"Cotton 77%, Polyester 21%, Spandex 2%",,,Regular fit,Recycled polyester 21%,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $39.99",,,0993887,001,2022-12-04 07:13:59.233497
+0993887002,Hybrid Regular Jeans,"Cotton 77%, Polyester 21%, Spandex 2%",,,Regular fit,Recycled polyester 21%,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $29.99",,,0993887,002,2022-12-04 07:13:59.233497
+0993887004,Hybrid Regular Jeans,"Cotton 79%, Polyester 20%, Spandex 1%",,,Regular fit,Recycled polyester 20%,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $22.99",,,0993887,004,2022-12-04 07:13:59.233497
+0993887007,Hybrid Regular Jeans,"Cotton 80%, Polyester 19%, Spandex 1%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $39.99",,,0993887,007,2022-12-04 07:13:59.233497
+0993887008,Hybrid Regular Jeans,"Cotton 78%, Polyester 21%, Spandex 1%",,,Regular fit,,Long,Regular waist,Machine wash cool,Denim,Dark gray,Yes,DENIM,"
+                $39.99",,,0993887,008,2022-12-04 07:13:59.233497
+1004199001,Skinny Cropped Jeans,"Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Light denim blue,Yes,DENIM,"
+                $29.99",,,1004199,001,2022-12-04 07:13:59.233497
+1004199002,Skinny Cropped Jeans,"Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Black,Yes,DENIM,"
+                $29.99",,,1004199,002,2022-12-04 07:13:59.233497
+1004199003,Skinny Cropped Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,Recycled cotton 20%,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Denim blue,Yes,DENIM,"
+                $14.99",,,1004199,003,2022-12-04 07:13:59.233497
+1004199004,Skinny Cropped Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,White,Yes,DENIM,"
+                $29.99",,,1004199,004,2022-12-04 07:13:59.233497
+1004199005,Skinny Cropped Jeans,"Shell: Cotton 99%, Spandex 1%",,,Skinny fit,,Ankle-length,Regular waist,Only non-chlorine bleach when needed,Denim,Light gray,Yes,DENIM,"
+                $29.99",,,1004199,005,2022-12-04 07:13:59.233497
+1004199007,Skinny Cropped Jeans,"Shell: Cotton 98%, Spandex 2%",,,Skinny fit,,Ankle-length,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $29.99",,,1004199,007,2022-12-04 07:13:59.233497
+1008110001,Freefit® Slim Jeans,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $49.99",,,1008110,001,2022-12-04 07:13:59.233497
+1008110002,Freefit® Slim Jeans,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $49.99",,,1008110,002,2022-12-04 07:13:59.233497
+1008110003,Freefit® Slim Jeans,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $49.99",,,1008110,003,2022-12-04 07:13:59.233497
+1008110005,Freefit® Slim Jeans,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $49.99",,,1008110,005,2022-12-04 07:13:59.233497
+1008110006,Freefit® Slim Jeans,"Shell: Cotton 89%, Elastomultiester 9%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $49.99",,,1008110,006,2022-12-04 07:13:59.233497
+1008110015,Freefit® Slim Jeans,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $49.99",,,1008110,015,2022-12-04 07:13:59.233497
+1008110019,Freefit® Slim Jeans,"Shell: Cotton 90%, Elastomultiester 8%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $49.99",,,1008110,019,2022-12-04 07:13:59.233497
+1008549001,Regular Jeans,"Shell: Cotton 98%, Spandex 2%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $24.99",,,1008549,001,2022-12-04 07:13:59.233497
+1008549002,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $24.99",,,1008549,002,2022-12-04 07:13:59.233497
+1008549003,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark gray,Yes,DENIM,"
+                $24.99",,,1008549,003,2022-12-04 07:13:59.233497
+1008549004,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Dark blue,Yes,DENIM,"
+                $24.99",,,1008549,004,2022-12-04 07:13:59.233497
+1008549005,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $24.99",,,1008549,005,2022-12-04 07:13:59.233497
+1008549006,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $24.99",,,1008549,006,2022-12-04 07:13:59.233497
+1008549007,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light gray,Yes,DENIM,"
+                $11.99",,,1008549,007,2022-12-04 07:13:59.233497
+1008549008,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",,,Regular fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $10.99",,,1008549,008,2022-12-04 07:13:59.233497
+1013317001,Hybrid Regular Tapered Joggers,"Cotton 77%, Polyester 21%, Spandex 2%",,,Regular fit,Recycled polyester 21%,Long,Regular waist,Tumble dry medium,Denim,Light denim blue,Yes,DENIM,"
+                $39.99",Joggers,,1013317,001,2022-12-04 07:13:59.233497
+1013317002,Hybrid Regular Tapered Joggers,"Cotton 78%, Polyester 21%, Spandex 1%",,,Regular fit,Recycled cotton 19%,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $39.99",Joggers,,1013317,002,2022-12-04 07:13:59.233497
+1013317003,Hybrid Regular Tapered Joggers,"Cotton 77%, Polyester 21%, Spandex 2%",,,Regular fit,Recycled cotton 5%,Long,Regular waist,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $39.99",Joggers,,1013317,003,2022-12-04 07:13:59.233497
+1013317004,Hybrid Regular Tapered Joggers,"Cotton 78%, Polyester 21%, Spandex 1%",,,Regular fit,Recycled polyester 21%,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $20.99",Joggers,,1013317,004,2022-12-04 07:13:59.233497
+1013317005,Hybrid Regular Tapered Joggers,"Cotton 79%, Polyester 19%, Spandex 2%",,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,Denim,Dark gray,Yes,DENIM,"
+                $39.99",Joggers,,1013317,005,2022-12-04 07:13:59.233497
+1013317006,Hybrid Regular Tapered Joggers,"Cotton 79%, Polyester 20%, Spandex 1%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $39.99",Joggers,,1013317,006,2022-12-04 07:13:59.233497
+1013317008,Hybrid Regular Tapered Joggers,"Cotton 77%, Polyester 21%, Spandex 2%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Dark blue,Yes,DENIM,"
+                $15.99",Joggers,,1013317,008,2022-12-04 07:13:59.233497
+1013317010,Hybrid Regular Tapered Joggers,"Cotton 80%, Polyester 19%, Spandex 1%",,,Regular fit,,Long,Regular waist,Tumble dry medium,Denim,Black,Yes,DENIM,"
+                $22.99",Joggers,,1013317,010,2022-12-04 07:13:59.233497
+1013317012,Hybrid Regular Tapered Joggers,"Cotton 78%, Polyester 21%, Spandex 1%",,,Regular fit,,Long,Regular waist,Machine wash cool,Denim,Solid-color,Yes,DENIM,"
+                $39.99",Joggers,,1013317,012,2022-12-04 07:13:59.233497
+1018704001,Relaxed Pull-on Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.3 cm (Size L),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $24.99",Pull-on Pants,,1018704,001,2022-12-04 07:13:59.233497
+1018704002,Relaxed Pull-on Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.3 cm (Size L),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,DENIM,"
+                $24.99",Pull-on Pants,,1018704,002,2022-12-04 07:13:59.233497
+1018704003,Relaxed Pull-on Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.3 cm (Size L),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $24.99",Pull-on Pants,,1018704,003,2022-12-04 07:13:59.233497
+1024256001,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Black,Yes,DENIM,"
+                $19.99",,,1024256,001,2022-12-04 07:13:59.233497
+1024256002,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Light denim blue,Yes,DENIM,"
+                $19.99",,,1024256,002,2022-12-04 07:13:59.233497
+1024256003,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Light denim blue,Yes,DENIM,"
+                $19.99",,,1024256,003,2022-12-04 07:13:59.233497
+1024256004,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Denim blue,Yes,DENIM,"
+                $19.99",,,1024256,004,2022-12-04 07:13:59.233497
+1024256005,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark blue,Yes,DENIM,"
+                $19.99",,,1024256,005,2022-12-04 07:13:59.233497
+1024256006,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark denim blue,Yes,DENIM,"
+                $19.99",,,1024256,006,2022-12-04 07:13:59.233497
+1024256007,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Dark gray,Yes,DENIM,"
+                $19.99",,,1024256,007,2022-12-04 07:13:59.233497
+1024256008,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,White,Yes,DENIM,"
+                $19.99",,,1024256,008,2022-12-04 07:13:59.233497
+1024711001,Slim Jeans,"Shell: Cotton 98%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Black,Yes,DENIM,"
+                $29.99",,,1024711,001,2022-12-04 07:13:59.233497
+1024711002,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $29.99",,,1024711,002,2022-12-04 07:13:59.233497
+1024711004,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $8.99",,,1024711,004,2022-12-04 07:13:59.233497
+1024711006,Slim Jeans,"Shell: Cotton 98%, Spandex 2%",,,Slim fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $29.99",,,1024711,006,2022-12-04 07:13:59.233497
+1024711008,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Dark denim gray,Yes,DENIM,"
+                $29.99",,,1024711,008,2022-12-04 07:13:59.233497
+1024711010,Slim Jeans,"Shell: Cotton 99%, Spandex 1%",,,Slim fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $29.99",,,1024711,010,2022-12-04 07:13:59.233497
+1025726002,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $11.99",,,1025726,002,2022-12-04 07:13:59.233497
+1025726003,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Graphite gray,Yes,DENIM,"
+                $39.99",,,1025726,003,2022-12-04 07:13:59.233497
+1027852002,Relaxed Denim Joggers,Shell: Cotton 100%,,Inner leg: Length: 77.7 cm (Size L),Relaxed fit,,Long,Regular waist,,keyFibreType,Dark gray,Yes,DENIM,"
+                $29.99",Joggers,,1027852,002,2022-12-04 07:13:59.233497
+1027852006,Relaxed Denim Joggers,Shell: Cotton 100%,,Inner leg: Length: 77.7 cm (Size L),Relaxed fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $29.99",Joggers,,1027852,006,2022-12-04 07:13:59.233497
+1027852007,Relaxed Denim Joggers,Shell: Cotton 100%,,Inner leg: Length: 77.7 cm (Size L),Relaxed fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,DENIM,"
+                $29.99",Joggers,,1027852,007,2022-12-04 07:13:59.233497
+1027852009,Relaxed Denim Joggers,Shell: Cotton 100%,,Inner leg: Length: 77.7 cm (Size L),Relaxed fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Light denim blue,Yes,DENIM,"
+                $29.99",Joggers,,1027852,009,2022-12-04 07:13:59.233497
+1044249001,Loose Pull-On Jeans,"Shell: Rayon 50%, Lyocell 50%",,Inner leg: Length: 77.5 cm (Size L),Loose fit,,Ankle-length,Regular waist,,Denim,Solid-color,Yes,DENIM,"
+                $44.99",Pull-on Pants,,1044249,001,2022-12-04 07:13:59.233497
+1044249002,Loose Pull-On Jeans,"Shell: Rayon 50%, Lyocell 50%",,Inner leg: Length: 77.5 cm (Size L),Loose fit,,Ankle-length,Regular waist,,Denim,Dark denim blue,Yes,DENIM,"
+                $44.99",Pull-on Pants,,1044249,002,2022-12-04 07:13:59.233497
+1051644001,Loose Jeans,"Shell: Lyocell 55%, Cotton 30%, Rayon 15%",,,Loose fit,,Long,Regular waist,Tumble dry medium,Denim,Denim blue,Yes,DENIM,"
+                $44.99",,,1051644,001,2022-12-04 07:13:59.233497
+1063141001,Loose Jeans,"Shell: Lyocell 55%, Cotton 30%, Rayon 15%",,,Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,Denim,Denim blue,Yes,DENIM,"
+                $44.99",Wide-cut,,1063141,001,2022-12-04 07:13:59.233497
+1071707001,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Solid-color,Yes,DENIM,"
+                $29.99",,,1071707,001,2022-12-04 07:13:59.233497
+1071707002,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Solid-color,Yes,DENIM,"
+                $29.99",,,1071707,002,2022-12-04 07:13:59.233497
+1071707003,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Solid-color,Yes,DENIM,"
+                $29.99",,,1071707,003,2022-12-04 07:13:59.233497
+1071707008,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Solid-color,Yes,DENIM,"
+                $29.99",,,1071707,008,2022-12-04 07:13:59.233497
+1071707010,Relaxed Jeans,Shell: Cotton 100%,,Inner leg: Length: 81.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim gray,Yes,DENIM,"
+                $29.99",,,1071707,010,2022-12-04 07:13:59.233497
+1074475001,Loose Jeans,Shell: Cotton 100%,,Inner leg: Length: 76.5 cm (Size 33/32),Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Solid-color,Yes,DENIM,"
+                $39.99",Trashed,,1074475,001,2022-12-04 07:13:59.233497
+1074475002,Loose Jeans,Shell: Cotton 100%,,Inner leg: Length: 76.5 cm (Size 33/32),Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,DENIM,"
+                $39.99",Trashed,,1074475,002,2022-12-04 07:13:59.233497
+1074475003,Loose Jeans,Shell: Cotton 100%,,Inner leg: Length: 76.5 cm (Size 33/32),Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",Trashed,,1074475,003,2022-12-04 07:13:59.233497
+1096385001,Loose Jeans,Shell: Cotton 100%,,Waist: Circumference: 91.0 cm (Size 33/32),Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Solid-color,Yes,DENIM,"
+                $29.99",,,1096385,001,2022-12-04 07:13:59.233497
+1096385002,Loose Jeans,Shell: Cotton 100%,,Waist: Circumference: 91.0 cm (Size 33/32),Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark denim blue,Yes,DENIM,"
+                $29.99",,,1096385,002,2022-12-04 07:13:59.233497
+1099503001,Baggy Jeans,Shell: Cotton 100%,,Inner leg: Length: 78.0 cm (Size 33/32),Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim gray,Yes,,"
+                $39.99",,,1099503,001,2022-12-04 07:13:59.233497
+1099503002,Baggy Jeans,Shell: Cotton 100%,,Inner leg: Length: 78.0 cm (Size 33/32),Loose fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,,"
+                $39.99",,,1099503,002,2022-12-04 07:13:59.233497
+1099503003,Baggy Jeans,Shell: Cotton 100%,,Inner leg: Length: 78.0 cm (Size 33/32),Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Dark denim blue,Yes,,"
+                $39.99",,,1099503,003,2022-12-04 07:13:59.233497
+1100162002,Essentials No 2: THE JEANS,"Shell: Cotton 99%, Spandex 1%",,Inner leg: Length: 79.5 cm (Size 33/32),Regular fit,,,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,,"
+                $39.99",Straight Leg,ESSENTIALS,1100162,002,2022-12-04 07:13:59.233497
+1100162003,Essentials No 2: THE JEANS,"Shell: Cotton 99%, Spandex 1%",,Inner leg: Length: 79.5 cm (Size 33/32),Regular fit,,,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Denim gray,Yes,,"
+                $39.99",Straight Leg,ESSENTIALS,1100162,003,2022-12-04 07:13:59.233497
+1107750001,Relaxed Worker Jeans,Shell: Cotton 100%,,Inner leg: Length: 80.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,DENIM,"
+                $44.99",,,1107750,001,2022-12-04 07:13:59.233497
+1107750002,Relaxed Worker Jeans,Shell: Cotton 100%,,Inner leg: Length: 80.0 cm (Size 33/32),Relaxed fit,,Long,Regular waist,Only non-chlorine bleach when needed,keyFibreType,Dark denim blue/white,Yes,DENIM,"
+                $44.99",,,1107750,002,2022-12-04 07:13:59.233497
+1114023001,Loose Jeans,Shell: Cotton 100%,,Inner leg: Length: 76.5 cm (Size 33/32),Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Denim blue,Yes,,"
+                $44.99",,,1114023,001,2022-12-04 07:13:59.233497
+1114023003,Loose Jeans,Shell: Cotton 100%,,Inner leg: Length: 76.5 cm (Size 33/32),Loose fit,,Long,Regular waist,Tumble dry medium,keyFibreType,Cream,Yes,,"
+                $44.99",,,1114023,003,2022-12-04 07:13:59.233497
