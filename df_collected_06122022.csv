@@ -1,0 +1,21 @@
+product_id,product_name,composition,color,size,fit,additional material information,messages.garmentlength,messages.waistrise,messages.clothingstyle,care instructions,material,description,imported,concept,price,style_id,color_id,scrapy_datetime
+0690449006,Skinny Jeans,"Cotton 98%, Spandex 2%",Black/washed,,Skinny fit,,Long,Regular waist,Trashed,Machine wash cool,keyFibreType,Black,Yes,DENIM,"
+                $7.99",0690449,006,2022-12-06 05:56:29.391691
+0690449064,Skinny Jeans,"Shell: Cotton 98%, Spandex 2%",Black/patterned,,Skinny fit,,Long,Regular waist,Trashed,Machine wash cool,keyFibreType,Black/white,Yes,DENIM,"
+                $39.99",0690449,064,2022-12-06 05:56:29.391691
+0811993034,Regular Jeans,"Cotton 99%, Spandex 1%",Pale denim blue,,Regular fit,Recycled cotton 20%,Long,Regular waist,Tapered,Tumble dry medium,Denim,Pale denim blue,Yes,DENIM,"
+                $29.99",0811993,034,2022-12-06 05:56:29.391691
+0811993044,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",Dark denim blue,,Regular fit,,Long,Regular waist,Tapered,Tumble dry medium,Denim,Dark denim blue,Yes,DENIM,"
+                $29.99",0811993,044,2022-12-06 05:56:29.391691
+0875105029,Relaxed Jeans,Shell: Cotton 100%,Black,Inner leg: Length: 89.5 cm (Size 33),Relaxed fit,,Long,Regular waist,,Only non-chlorine bleach when needed,keyFibreType,Black,Yes,DENIM,"
+                $39.99",0875105,029,2022-12-06 05:56:29.391691
+0938875001,Slim Tapered Jeans,"Cotton 99%, Spandex 1%",Light denim blue,,Slim fit,Recycled cotton 20%,Long,Regular waist,Tapered,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $29.99",0938875,001,2022-12-06 05:56:29.391691
+0971061006,Slim Tapered Cropped Jeans,"Cotton 99%, Spandex 1%",Denim blue,,Slim fit,,Ankle-length,Regular waist,Tapered,Tumble dry medium,Denim,Solid-color,Yes,DENIM,"
+                $29.99",0971061,006,2022-12-06 05:56:29.391691
+1008549001,Regular Jeans,"Shell: Cotton 98%, Spandex 2%",Light denim blue,,Regular fit,Recycled cotton 20%,Long,Regular waist,,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $24.99",1008549,001,2022-12-06 05:56:29.391691
+1008549002,Regular Jeans,"Shell: Cotton 99%, Spandex 1%",Denim blue,,Regular fit,Recycled cotton 20%,Long,Regular waist,,Only non-chlorine bleach when needed,keyFibreType,Denim blue,Yes,DENIM,"
+                $24.99",1008549,002,2022-12-06 05:56:29.391691
+1018704001,Relaxed Pull-on Jeans,Shell: Cotton 100%,Light denim blue,Inner leg: Length: 81.3 cm (Size L),Relaxed fit,Recycled cotton 20%,Long,Regular waist,Pull-on Pants,Only non-chlorine bleach when needed,keyFibreType,Light denim blue,Yes,DENIM,"
+                $24.99",1018704,001,2022-12-06 05:56:29.391691
